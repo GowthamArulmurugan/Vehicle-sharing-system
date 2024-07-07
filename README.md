@@ -1,6 +1,4 @@
-Here's a README file for your GitHub repository for the Vehicle Sharing System:
 
-```markdown
 # Vehicle Sharing System
 
 Vehicle Sharing System! This web application allows users to book rides, offer rides, and manage ride-sharing operations efficiently. Built with modern web technologies, it ensures a seamless experience for both drivers and passengers.
